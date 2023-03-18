@@ -9,6 +9,7 @@ public class MyClass
 		System.out.println("Resources");
 		System.out.println("Suite");
 		System.out.println("Sernior QA Designed ");
+		System.out.println("Small Change  ");
 
 	}
 
